@@ -86,3 +86,23 @@ h6 {
 iframe {
     margin-left: 50px;
 }
+
+.firma {
+    color: #000000;
+    font-size: 30px
+}
+
+.ombralink:hover {
+    opacity: 0.5
+}
+
+.centerbutton {
+    margin: 0 auto
+}
+
+.contenitore {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 650px;
+}
